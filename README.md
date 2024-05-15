@@ -1,8 +1,4 @@
-<<<<<<< HEAD
-<h1>Jogo do número secreto</h1> <img width="50%" align="right" src="https://github.com/ruytertorres/ruytertorres/assets/57309589/3898c025-7ae9-4976-889d-53a612be16ec">
-=======
 <h1>Jogo do número secreto</h1><img width="50%" align="right" src="https://github.com/ruytertorres/ruytertorres/assets/57309589/3898c025-7ae9-4976-889d-53a612be16ec">
->>>>>>> 2479f7cae95eefb9614b4e9e7a814f81c1a8802d
 
 <h3>🔖 Sobre</h3>
 <p>Projeto utilizado nos cursos de lógica de programação da Alura.</p>
